@@ -1,4 +1,4 @@
-<?php namespace Myparking\Callws;
+<?php namespace Cryptoguys\Callws;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -18,7 +18,7 @@ class CallwsServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('myparking/callws');
+		$this->package('cryptoguys/callws');
 	}
 
 	/**

@@ -1,11 +1,11 @@
 {
-    "name": "myparking/callws",
+    "name": "cryptoguys/callws",
     "description": "From JSON to HTML into the views",
     "license" : "BSD-2-Clause",
     "authors": [
         {
-            "name": "Gilf",
-            "email": "info@myparking.it"
+            "name": "Luca e Igor",
+            "email": "cryptolaravel@gmail.com"
         }
     ],
     "require": {
@@ -17,7 +17,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Myparking\\Callws\\": "src/"
+            "Cryptoguys\\Callws\\": "src/"
         }
     },
     "minimum-stability": "dev"

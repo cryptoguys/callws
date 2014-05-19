@@ -1,4 +1,4 @@
-<?php namespace Myparking\Callws;
+<?php namespace Cryptoguys\Callws;
 
 class Callws {
 

@@ -1,4 +1,4 @@
-<?php namespace Myparking\Callws\Facades;
+<?php namespace Cryptoguys\Callws\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
