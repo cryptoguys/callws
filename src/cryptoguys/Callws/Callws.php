@@ -1,10 +1,7 @@
 <?php namespace Cryptoguys\Callws;
 
 class Callws {
-
-	var $ciccio = "asd";
  
-
 	public function __construct()
 	{
 
